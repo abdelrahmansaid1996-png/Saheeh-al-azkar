@@ -1,0 +1,4 @@
+lib/
+assets/
+pubspec.yaml
+.github/workflows/flutter.yml
